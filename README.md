@@ -1,5 +1,3 @@
-# Operating-System
-The Operating System course covers the fundamental concepts, principles, and mechanisms underlying modern operating systems.
 # Operating System Course Repository
 
 Welcome to the Operating System course repository! This repository serves as a comprehensive resource for all materials related to the study of Operating Systems.
